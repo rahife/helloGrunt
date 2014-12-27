@@ -9,4 +9,11 @@ The purpose of this project is to learn how to set up a minimum installation of 
 - Create folder `mkdir app` inside
 - Create files `touch README.md .gitignore app/HelloWorld.js`
 - `git init`
--
+- `git remote add origin git@github.com:rahife/helloGrunt.git`
+- `git push -u origin master`
+
+## Problems with git?
+
+- [SSH problems?](https://help.github.com/articles/generating-ssh-keys/)
+
+## 
