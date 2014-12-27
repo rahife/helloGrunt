@@ -1,0 +1,32 @@
+{
+  "name": "helloGrunt",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to learn how to set up a minimum installation of grunt for a HelloWorld project....and git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahife/helloGrunt.git"
+  },
+  "keywords": [
+    "helloworld",
+    "grunt",
+    "javascript"
+  ],
+  "author": "rafa..hidalgo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahife/helloGrunt/issues"
+  },
+  "homepage": "https://github.com/rahife/helloGrunt",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-karma": "^0.9.0",
+    "jasmine-core": "^2.1.3",
+    "karma": "^0.12.28",
+    "karma-jasmine": "^0.3.3",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}

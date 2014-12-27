@@ -21,6 +21,8 @@ The purpose of this project is to learn how to set up a minimum installation of 
 - `npm init`
 - `npm install grunt --save-dev`
 - Create file `touch Gruntfile.js`
-- Basic Gruntfile set up [here](http://gruntjs.com/getting-started)
 - `npm install grunt-karma --save-dev`
 - `npm install karma-jasmine --save-dev`
+- Create karma.conf.js: `./node_modules/karma/bin/karma init`
+- Edit Gruntfile to add the karma task. More info about [grunt-karma](https://github.com/karma-runner/grunt-karma)
+- Run grunt karma
