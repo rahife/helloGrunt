@@ -16,4 +16,11 @@ The purpose of this project is to learn how to set up a minimum installation of 
 
 - [SSH problems?](https://help.github.com/articles/generating-ssh-keys/)
 
-## 
+## Set up the project
+
+- `npm init`
+- `npm install grunt --save-dev`
+- Create file `touch Gruntfile.js`
+- Basic Gruntfile set up [here](http://gruntjs.com/getting-started)
+- `npm install grunt-karma --save-dev`
+- `npm install karma-jasmine --save-dev`
