@@ -25,7 +25,7 @@ The purpose of this project is to learn how to set up a minimum installation of 
 - Edit Gruntfile to add the karma task. More info about [grunt-karma](https://github.com/karma-runner/grunt-karma)
 - Run `grunt karma`
 
-## Option B: Download the repo
+## Option B: Download this code
 
 - You would need to install first node and grunt-cli on your machine
 - Then run `npm install` on the `helloGrunt` dir to download the dependencies from package.json
