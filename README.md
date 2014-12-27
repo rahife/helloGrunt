@@ -1,7 +1,7 @@
 helloGrunt
 ==========
 
-The purpose of this project is to learn how to set up a minimum installation of grunt for a HelloWorld project....and git.
+The purpose of this project is to learn how to set up a minimum installation of grunt and karma for a HelloWorld project....and git.
  
 ## Prepare the project on local
 
@@ -11,8 +11,6 @@ The purpose of this project is to learn how to set up a minimum installation of 
 - `git init`
 - `git remote add origin git@github.com:rahife/helloGrunt.git`
 - `git push -u origin master`
-
-## Problems with git?
 
 - [SSH problems?](https://help.github.com/articles/generating-ssh-keys/)
 
